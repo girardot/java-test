@@ -40,6 +40,7 @@
                 <configuration>
                     <source>12</source>
                     <target>12</target>
+                    <compilerArgs>--enable-preview</compilerArgs>
                 </configuration>
             </plugin>
         </plugins>
